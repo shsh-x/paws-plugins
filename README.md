@@ -1,1 +1,1 @@
-# paws-plugins
+This will be a repository for compiled plugins for pawsfw
